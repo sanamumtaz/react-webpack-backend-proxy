@@ -1,4 +1,4 @@
-This repo contains code for the article written on Dev.to describing steps for setting up `webpack-dev-server` to connect React frontend to Node.js/Express backend by **proxy**ing the requests.
+This repo contains code for [the article written on Dev.to](https://dev.to/sanamumtaz/webpack-dev-server-setting-up-proxy-59bk) describing steps for setting up `webpack-dev-server` to connect React frontend to Node.js/Express backend by **proxy**ing the requests.
 
 ## Getting Started
 
